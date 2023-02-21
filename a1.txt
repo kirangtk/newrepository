@@ -1,3 +1,7 @@
 new file a1
 new data
+<<<<<<< HEAD
 new 
+=======
+data
+>>>>>>> refs/remotes/origin/main
